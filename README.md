@@ -28,3 +28,20 @@
 ### 주요기능 : 1:1문의, 신고센터, 고객관리, 통계, 빌링관리, 사이트 관리 등
 `C#, ASP.NET, jQuery, Bootstrap, MSSQL`
 <img src="https://zdfffg.bl.files.1drv.com/y4m5XEivojTXiCjUxl7xehn1i9bxgXRPWIQx-ko6qRWkiryEVsqANQKyx5rREwgWl97LcnzNw3PS9ieY9ABlXS3jy5dU6qSOh96Zm3SsDqyEBeclRhHXBg8wpq7TX0TcXcIr9QOKZ5fhzgj5bCIaJRVO05oujXql9gbWtjaTaM1l0DNZR0vUh6VKFNf4nHYIcwMNgb9rQn7mOE7PmARBvq3tg?width=1292&height=818&cropmode=none" />
+
+## 통합웹상점
+### 통합웹상점+채널링 웹상점 통합버전
+### 특징 : 원빌드로 하나의 솔루션으로 배포가 가능하다.
+`C#, ASP.NET Core 5, gRPC`
+
+### 실행예제
+
+* SystemCode
+  * xlgames
+  * naver
+  * nexon
+  * hangame
+  * daum
+```ruby
+path > dotnet run [SystemCode]
+```
